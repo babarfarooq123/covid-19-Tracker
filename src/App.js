@@ -11,7 +11,7 @@ function App() {
   return (
     <context.Provider value={country}>
       <div className="App">
-        <h2>Covid-19 Tacker</h2>
+        <h2>Covid-19 Tackerr</h2>
         {/* <Pickcountry /> */}
         <Numbers />
         <Graphss />
